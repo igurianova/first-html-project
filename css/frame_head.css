@@ -1,0 +1,9 @@
+p {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+body {
+    background-image: url(../img/pattern.jpg);
+    background-size: 2000px;
+}

@@ -1,0 +1,45 @@
+body {
+    font-family: monospace;
+}
+
+.letter {
+    color: #909cac;
+    font-size: 200%;
+    font-family: monospace;
+    position: relative;
+    top: 5px;
+}
+
+input {
+    font-family: monospace;
+}
+
+select {
+    font-family: monospace;
+    color: #2F4F4F;
+}
+
+ul {
+    padding: 0;
+    margin-left: 20px;
+    margin-top: 1px;
+}
+
+li {
+    margin-top: 1px;
+    color: #909cac;
+}
+
+li span {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    font-style: normal;
+}
+
+a:hover {
+    background-color: #000000;
+    color: white;
+}
